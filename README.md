@@ -1,4 +1,4 @@
-<h1 align="center"><b>Computational Thinking</b></h>
+<h1 align="center"><b>COMPUTATIONAL THINKING</b></h>
 <h1 align="center"><b>CS117.L22.KHCL</b></h>
 
 # Thành viên nhóm:
