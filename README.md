@@ -16,4 +16,4 @@
 * **Giảng viên**: TS.Ngô Đức Thành.
 
 # GIỚI THIỆU ĐỒ ÁN
-* **Tênn đồ ánn:** Phân tích bình luận thô tục trên mạng xã hội Facebook
+* **Tênn đồ án:** Phân tích bình luận thô tục trên mạng xã hội Facebook
