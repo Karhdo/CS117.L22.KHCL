@@ -14,3 +14,6 @@
 * **Mã lớp:** CS117.L22.KHCL.
 * **Năm học:** HK2 (2020 - 2021).
 * **Giảng viên**: TS.Ngô Đức Thành.
+
+## GIỚI THIỆU ĐỒ ÁN
+* **Tênn đồ ánn:** Phân tích bình luận thô tục trên mạng xã hội Facebook
