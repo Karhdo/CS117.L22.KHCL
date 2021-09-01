@@ -1,5 +1,4 @@
-<h1 align="center"><b>COMPUTATIONAL THINKING</b></h>
-<h1 align="center"><b>CS117.L22.KHCL</b></h>
+<h1 align="center"><b>COMPUTATIONAL THINKING - CS117.L22.KHCL</b></h>
 
 # THÀNH VIÊN NHÓM
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
