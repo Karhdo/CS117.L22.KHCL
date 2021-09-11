@@ -23,3 +23,6 @@
 
 # GIỚI THIỆU ĐỒ ÁN
 * **Tên đồ án:** Phân tích bình luận thô tục trên mạng xã hội Facebook
+
+<!-- Footer -->
+`Copyright © 2021 - Đỗ Trọng Khánh`
