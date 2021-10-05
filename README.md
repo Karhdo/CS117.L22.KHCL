@@ -24,5 +24,16 @@
 # GIỚI THIỆU ĐỒ ÁN
 * **Tên đồ án:** Phân tích bình luận thô tục trên mạng xã hội Facebook
 
+### Week 5: Methods of evaluating a classification model.
+#### 1. Accuracy.
+  - Cách đánh giá này đơn giản tính tỉ lệ giữa số `điểm được dự đoán đúng` và `tổng số điểm trong tập dữ liệu kiểm thử`.
+#### 2. Confusion matrix.
+  - Các tính **Accuracy** ở trên chỉ cho ta biết được phần trăm lượng dữ liệu được phân loại đúng mà không chỉ ra rõ được lớp nào có độ chính xác cao nhất hay thấp nhất và dữ liệu của lớp nào thường bị phân loại nhầm vào lớp khác.
+  -  Do đó **Confusion matrix** thể hiện có bao nhiêu điểm dữ liệu thực sự thuộc vào một class, và được dự đoán là rơi vào một class.
+#### 3. Precision and Recall.
+  - Bài toán phân loại mà tập dữ liệu của các lớp là chênh lệch nhau rất nhiều, có một phép đó hiệu quả thường được sử dụng là Precision-Recall.
+  - Precision được định nghĩa là tỉ lệ `số điểm Positive mô hình dự đoán đúng` trên `tổng số điểm mô hình dự đoán là Positive` => Precision càng cao, tức là số điểm mô hình dự đoán là positive đều là positive càng nhiều.
+  - Recall được định nghĩa là tỉ lệ `số điểm Positive mô hình dự đoán đúng` trên `tổng số điểm thật sự là Positive` (hay tổng số điểm được gán nhãn là Positive ban đầu) => Recall càng cao, tức là số điểm là positive bị bỏ sót càng ít.
+
 <!-- Footer -->
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2021 - Đỗ Trọng Khánh`
